@@ -1,0 +1,59 @@
+
+[
+    {
+        "id": 1,
+        "title": "Intel console",
+        "price": 50,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/console.png"
+    },
+    {
+        "id": 2,
+        "title": "Beats solo earphone",
+        "price": 100,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/earphone.png"
+    },
+    {
+        "id": 3,
+        "title": "Hp Laptop",
+        "price": 200,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/laptop.png"
+    },
+    {
+        "id": 4,
+        "title": "Amazon speaker",
+        "price": 150,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/speaker.png"
+    },
+    {
+        "id": 5,
+        "title": "Apple watch",
+        "price": 300,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/watch.png"
+    },
+    {
+        "id": 6,
+        "title": "Beats solo headphone",
+        "price": 200,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/headphone-1.png"
+    },
+    {
+        "id": 7,
+        "title": "Sony headphone",
+        "price": 250,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/headphone-2.png"
+    },
+    {
+        "id": 8,
+        "title": "Sony headphone",
+        "price": 100,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "img_url": "/images/headphone-3.png"
+    }
+]
